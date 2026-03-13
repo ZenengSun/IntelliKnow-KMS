@@ -55,7 +55,7 @@
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/你的用户名/IntelliKnow-KMS.git
+   git clone https://github.com/ZenengSun/IntelliKnow-KMS.git
    cd IntelliKnow-KMS
 
 2. **创建并激活环境**
@@ -94,10 +94,14 @@
 
 ## 第二部分：teams_bot（Teams 机器人）
 
+- **仓库地址**：[teams-bot](https://github.com/ZenengSun/teams-bot)
+- https://github.com/ZenengSun/teams-bot.git
+
 ### ✨ 功能
 - 🤖 在 Microsoft Teams 中接收用户消息
 - 🔌 调用 IntelliKnow-KMS 的 API
 - 📤 返回意图分类和知识库回答
+
 
 ### 🛠️ 技术栈
 - 框架：Microsoft 365 Agents SDK
